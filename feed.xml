@@ -42,19 +42,17 @@ First podcast
       </description>
     </item>
     <item>
-      <itunes:episodeType>trailer</itunes:episodeType>
-      <itunes:title>ВОЙНА. ДЕНЬ 622. СНИМКИ КОРАБЛЯ ПОСЛЕ УДАРА/ ТЕХНИКА ВСУ НА ЛЕВОМ БЕРЕГУ/ СМЕРТЬ ПОМОЩНИКА ЗАЛУЖНОГО</itunes:title>
-      <description>
-          Tips for trekking around the tallest mountain in Oregon
-      </description>
-      <enclosure
-        length="40944236"
-        type="audio/mpeg"
-        url="https://holser.github.io/podcast-player/audio/02.mp3"
-      />
-      <pubDate>Tue, 7 Nov 2023 13:00:00 GMT</pubDate>
+      <author>Sergii Golovatiuk</author>
+      <itunes:author>Sergii Golovatiuk</itunes:author>
+      <title>Second podcast</title>
+      <pubDate>Tue, 07 Nov 2023 13:00:00 GMT</pubDate>
+      <enclosure url="https://holser.github.io/podcast-player/audio/02.mp3" type="audio/mpeg" length="40944236" />
       <itunes:duration>42:39</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <guid isPermaLink="false">cepod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Second podcast
+      </description>
     </item>
   </channel>
 </rss>
