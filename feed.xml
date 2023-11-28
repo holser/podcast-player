@@ -53,6 +53,20 @@ First podcast
       <description>
 Second podcast
       </description>
+     <item>
+      <author>Sergii Golovatiuk</author>
+      <itunes:author>Sergii Golovatiuk</itunes:author>
+      <title>Third podcast</title>
+      <pubDate>Tue, 28 Nov 2023 13:00:00 GMT</pubDate>
+      <enclosure url="https://holser.github.io/podcast-player/audio/03.mp3" type="audio/mpeg" length="45532652" />
+      <itunes:duration>2846</itunes:duration>
+      <guid isPermaLink="false">cepod02</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+В ноябре Россия понесла самые большие ежедневные потери за всё время полномасштабного вторжения в Украину. Ключевую роль в этом сыграли атаки на Авдеевку, отмечает британская разведка. Генсек НАТО Столтенберг также подчеркивает, что Украине удается эффективно уничтожать живую силу и технику России. Отдельно он указал на то, что ВСУ удалось серьезно ослабить Черноморский флот РФ.
+
+      </description>
     </item>
+   </item>
   </channel>
 </rss>
